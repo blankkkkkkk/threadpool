@@ -69,15 +69,11 @@ int destory_PthreadPool(pool);
 
 欢迎贡献代码！请遵循以下步骤：
 
-1.
-
-2.
-
-3.
-
-4.
-
-.......
+1. Fork 本仓库
+2. 创建您的特性分支 (`git checkout -b my-new-feature`)
+3. 提交您的改动 (`git commit -am 'Add some feature'`)
+4. 将您的改动推送到分支 (`git push origin my-new-feature`)
+5. 创建新的 Pull Request
 
 ## 测试
 
@@ -91,6 +87,10 @@ make
 ## 作者
 
 - blank    ---   李濠锋
+
+## 许可证
+
+本项目使用 [MIT License](https://chatglm.cn/main/LICENSE)。
 
 ## 版本历史
 
